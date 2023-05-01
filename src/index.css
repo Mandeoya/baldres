@@ -1,4 +1,8 @@
 body {
+  background-image: url(/src/images/tumblr_0fbc53efd818c3cca6d73629a8435e96_45073783_540.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
