@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/baldres/static/css/main.84fdb717.css",
+    "main.js": "/baldres/static/js/main.3c0a2012.js",
+    "static/js/787.358f92bc.chunk.js": "/baldres/static/js/787.358f92bc.chunk.js",
+    "static/media/tumblr__45073783_540.gif": "/baldres/static/media/tumblr_0fbc53efd818c3cca6d73629a8435e96_45073783_540.81ca9067ef970a7f0b8f.gif",
+    "index.html": "/baldres/index.html",
+    "main.84fdb717.css.map": "/baldres/static/css/main.84fdb717.css.map",
+    "main.3c0a2012.js.map": "/baldres/static/js/main.3c0a2012.js.map",
+    "787.358f92bc.chunk.js.map": "/baldres/static/js/787.358f92bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84fdb717.css",
+    "static/js/main.3c0a2012.js"
+  ]
+}
